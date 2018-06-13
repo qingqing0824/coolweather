@@ -11,7 +11,7 @@ import com.google.gson.Gson;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
+//解析和处理服务器返回的数据
 public class Utility {
 
     /**
